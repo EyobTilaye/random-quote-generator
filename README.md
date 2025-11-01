@@ -30,7 +30,6 @@ When the user clicks a button, the program fetches a **random quote** from a **l
 ---
 ## 🖼️ Preview
 
-```markdown
 ![App Preview](preview.png)
 
 ---
